@@ -1,0 +1,9 @@
+[submodule "BACKEND"]
+	path = BACKEND
+	url = https://github.com/lebyanelm/noon-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/lebyanelm/noon-frontend.git
+[submodule "FRONTEND"]
+	path = FRONTEND
+	url = https://github.com/lebyanelm/noon-frontend.git
